@@ -3,7 +3,7 @@ Hi everybody.
 
 This repository will help you to get know with reactions in **Pyrogram**. 
 
-I also added Procfile so you can easily use **Heroku**.
+I also added "Procfile" so you can easily use **Heroku**.
 # installation
 Follow this commands on terminal:
 
