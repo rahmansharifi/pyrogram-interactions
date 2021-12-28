@@ -1,7 +1,7 @@
 import os
 import time
 
-from pyrogram import Client, filters,idle
+from pyrogram import Client, filters, idle
 from pyrogram.raw.functions.account import UpdateStatus
 
 os.chdir(os.path.dirname(__file__))
