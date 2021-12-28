@@ -9,3 +9,5 @@ Follow this commands on terminal:
 4.  shell ```python3 bot.py```
 
 _You may use screen or nohup instead._
+
+1.  shell ```nohup python3 bot.py &```
